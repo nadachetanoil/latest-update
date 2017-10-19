@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Oilfield Notification</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="oilfield_notifications">OILFIELD NOTIFICATIONS</string>
+
+    <string name="signup">Sign up</string>
+    <string name="loigin">Log in</string>
+
+    <string name="first_name">FIRST NAME</string>
+    <string name="last_name">LAST NAME</string>
+    <string name="email_address">EMAIL ADDRESS</string>
+    <string name="password">PASSWORD</string>
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+    <string name="company_name">COMPANY NAME</string>
+    <string name="phone_no">PHONE NUMBER</string>
+    <string name="confirm_signup">Confirm Signup</string>
+    <string name="cancel_sigup">Cancel Signup</string>
+
+    <string name="remember_me">Remember me</string>
+    <string name="confirm_login">Confirm Login</string>
+    <string name="cancel_login">Cancel Login</string>
+    <string name="forgot_pwd">Forgot Password ?</string>
+
+    <string name="enter_email_address">Enter email address</string>
+
+    <string name="home_my_group">MY GROUPS</string>
+    <string name="home_notification_feed">NOTIFICATION FEEDS</string>
+    <string name="home_invite_people">INVITE PEOPLE</string>
+    <string name="home_peopel_dir">PEOPLE DIRECTORY</string>
+
+    <string name="enable_disable_noti">Enable/Disable Notifications</string>
+    <string name="user_profile">User Profile</string>
+    <string name="tutorial">Tutorial</string>
+
+    <string name="profile">Profile</string>
+    <string name="notification">NOTIFICATIONS</string>
+    <string name="contact_us">CONTACT US</string>
+    <string name="terms_condition">TERMS AND CONDITIONS</string>
+    <string name="settings">SETTINGS</string>
+
+    <string name="alert">Alert!</string>
+    <string name="msg_logout">Are you sure you want to logout.</string>
+    <string name="alert_are_you_sure">Are you sure !</string>
+    <string name="alert_delete_group">You want to delete this group.</string>
+
+    <string name="create">Create</string>
+    <string name="name_this_group">Name this group</string>
+    <string name="add_a_description">Add a description</string>
+    <string name="done">Done</string>
+    <string name="select_member">SELECT MEMBER</string>
+    <string name="title_activity_group_view">GroupViewActivity</string>
+    <string name="nothing_here_yet">Nothing here yet.</string>
+    <string name="create_event_to_get">Create event to get notification \nstarted.</string>
+
+    <string name="create_event">CREATE EVENT</string>
+    <string name="send">Send</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_details">Event details</string>
+
+    <string name="group_details">GROUP DETAILS</string>
+    <string name="event_details_title">EVENT DETAILS</string>
+    <string name="add_comment">ADD COMMENT</string>
+
+    <string name="all_tutorial">ALL TUTORIALS</string>
+
+    <string-array name="qty">
+        <item>App Icons</item>
+        <item>App Termination</item>
+        <item>Apps Follow Well-Defined Execution Paths</item>
+        <item>Apps Must Run Efficiently in a Multitasking</item>
+        <item>Communication Between Apps Follows Sp</item>
+        <item>Expedcted App Behaviors</item>
+        <item>How to Use This Document</item>
+        <item>Internationalizing Your App</item>
+        <item>Performance Tuning is Important for Apps</item>
+        <item>Quickly response to a notification</item>
+        <item>The Main Run Loop</item>
+    </string-array>
+
+    <string-array name="qty_ans">
+        <item>1) Writing a good title and description. Your listing\'s title and description are your advertisement for the item you\'re selling an opportunity to inform and excite buyers. A good title and description provide a clear picture of your item and increase your chances that buyers will find and bid on or buy your item.</item>
+        <item>2) Writing a good title and description. Your listing\'s title and description are your advertisement for the item you\'re selling an opportunity to inform and excite buyers. A good title and description provide a clear picture of your item and increase your chances that buyers will find and bid on or buy your item.</item>
+        <item>3) Writing a good title and description. Your listing\'s title and description are your advertisement for the item you\'re selling an opportunity to inform and excite buyers. A good title and description provide a clear picture of your item and increase your chances that buyers will find and bid on or buy your item.</item>
+        <item>4) Writing a good title and description. Your listing\'s title and description are your advertisement for the item you\'re selling an opportunity to inform and excite buyers. A good title and description provide a clear picture of your item and increase your chances that buyers will find and bid on or buy your item.</item>
+        <item>5) Writing a good title and description. Your listing\'s title and description are your advertisement for the item you\'re selling an opportunity to inform and excite buyers. A good title and description provide a clear picture of your item and increase your chances that buyers will find and bid on or buy your item.</item>
+        <item>6) Writing a good title and description. Your listing\'s title and description are your advertisement for the item you\'re selling an opportunity to inform and excite buyers. A good title and description provide a clear picture of your item and increase your chances that buyers will find and bid on or buy your item.</item>
+        <item>7) Writing a good title and description. Your listing\'s title and description are your advertisement for the item you\'re selling an opportunity to inform and excite buyers. A good title and description provide a clear picture of your item and increase your chances that buyers will find and bid on or buy your item.</item>
+        <item>8) Writing a good title and description. Your listing\'s title and description are your advertisement for the item you\'re selling an opportunity to inform and excite buyers. A good title and description provide a clear picture of your item and increase your chances that buyers will find and bid on or buy your item.</item>
+        <item>9) Writing a good title and description. Your listing\'s title and description are your advertisement for the item you\'re selling an opportunity to inform and excite buyers. A good title and description provide a clear picture of your item and increase your chances that buyers will find and bid on or buy your item.</item>
+        <item>10) Writing a good title and description. Your listing\'s title and description are your advertisement for the item you\'re selling an opportunity to inform and excite buyers. A good title and description provide a clear picture of your item and increase your chances that buyers will find and bid on or buy your item.</item>
+        <item>11) Writing a good title and description. Your listing\'s title and description are your advertisement for the item you\'re selling an opportunity to inform and excite buyers. A good title and description provide a clear picture of your item and increase your chances that buyers will find and bid on or buy your item.</item>
+
+       </string-array>
+</resources>

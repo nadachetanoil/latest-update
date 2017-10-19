@@ -1,0 +1,25 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw720dp devices (e.g. 10" tablets) in landscape here.
+
+
+
+
+
+    -->
+    <dimen name="activity_horizontal_margin">100dp</dimen>
+    <dimen name="txt0">16dp</dimen>
+    <dimen name="txt1">20dp</dimen>
+    <dimen name="txt2">20dp</dimen>
+    <dimen name="txt3">21dp</dimen>
+    <dimen name="txt4">22dp</dimen>
+    <dimen name="txt5">23dp</dimen>
+    <dimen name="txt6">30dp</dimen>
+    <dimen name="txt7">35dp</dimen>
+    <dimen name="txt_pad">12dp</dimen>
+    <dimen name="check_size">280px</dimen>
+    <dimen name="txt_pading_left">67.5dp</dimen>
+	<dimen name="pad_score_golf_ball">14dp</dimen>
+</resources>

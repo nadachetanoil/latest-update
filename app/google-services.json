@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "839739552516",
+    "firebase_url": "https://myschedule-80f67.firebaseio.com",
+    "project_id": "myschedule-80f67",
+    "storage_bucket": "myschedule-80f67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839739552516:android:4305ec7e894b7580",
+        "android_client_info": {
+          "package_name": "com.fracappzstudios.oilfieldnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839739552516-9pioklsnsv2nsodqvion1gmgovro8hhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fracappzstudios.oilfieldnotifications",
+            "certificate_hash": "cd02b5cc60c45be7a9079fcb005feb8a731bd845"
+          }
+        },
+        {
+          "client_id": "839739552516-4qtu23im76a9o4ih69qr0psgcr81oj6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdX6KHJ4_j0UrLkOaXXPnhpwv1KvIPXyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839739552516-4qtu23im76a9o4ih69qr0psgcr81oj6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
